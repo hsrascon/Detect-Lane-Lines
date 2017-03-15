@@ -1,5 +1,5 @@
 # Detect-Lane-Lines
-Pipeline that identifies lane lines on the road. 
+Pipeline that identifies lane lines on the road. Please refer to `writeup_report.md` for a detailed discussion about the project.
 
 
 #**Finding Lane Lines on the Road**
